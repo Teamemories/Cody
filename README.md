@@ -6,47 +6,6 @@
 
 ## How to install
 
-1. Install Ollama App on your PC
-
-- **Windows:**
-
-> download setup file from [`ollama.com`](https://ollama.com/download/windows)
-
-> or run this script on PowerShell:
-
-```ps1
-irm "https://ollama.com/install.ps1" | iex
-# or
-winget.exe install --id Ollama.Ollama
-```
-
-- **MacOS:**
-
-> download setup file from [`ollama.com`](https://ollama.com/download/mac)
-
-> or run this script on Terminal:
-
-```bash
-curl -fsSL https://ollama.com/install.sh | sh
-```
-
-- **GNU/Linux:**
-
-> run this script on Terminal:
-
-```bash
-curl -fsSL https://ollama.com/install.sh | sh
-```
-
-2. Pull Model
-
-- open terminal: ```ollama pull cmd_er/cody``` (_**wait to download complete**_)
-
-3. Run model
-
-- open terminal ```ollama serve``` and in another terminal page ```ollama run cmd_er/cody```
-- or open Ollama app and select `cmd_er/cody` from model list.
-
 ### ❗Note
 
 > **Cody is not affiliated with, endorsed by, or distributed as an official artifact of the original model provider.**
