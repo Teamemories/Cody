@@ -12,7 +12,7 @@
 
 > download setup file from [`ollama.com`](https://ollama.com/download/windows)
 
-> or run this script on PowerShell or CMD:
+> or run this script on PowerShell:
 
 ```ps1
 irm "https://ollama.com/install.ps1" | iex
