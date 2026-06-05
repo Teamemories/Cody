@@ -40,7 +40,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 2. Pull Model
 
-- open terminal: ```ollama pull cmd_er/cody``` (wait to download complete)
+- open terminal: ```ollama pull cmd_er/cody``` (_**wait to download complete**_)
 
 3. Run model
 
