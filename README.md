@@ -1,4 +1,4 @@
-# 🤖 Cody
+# <img src="https://github.com/Teamemories/Cody/blob/main/logo.svg" style="width: 150px; height: 150px; border-radius: 50px;" /> Cody
 
 > Cody is a lightweight model wrapper implemented as an experimental configuration derived from a subset of the [`Qwen3.5`](https://ollama.com/library/qwen3.5) architecture.
 > This system is designated strictly for educational and research applications at the student level.
