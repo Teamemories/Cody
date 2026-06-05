@@ -4,19 +4,39 @@
 > This system is designated strictly for educational and research applications at the student level.
 > It should be classified as a scientific experiment rather than a commercial product or an official release.
 
-### ❗Note
-
-> **Cody is not affiliated with, endorsed by, or distributed as an official artifact of the original model provider.**
-
 ## How to install
 
 1. Install Ollama App on your PC
 
-| Platform | Setup File | Commandline |
-| :---: | :---: | :---: |
-| Windows | [`ollama.com`](https://ollama.com/download/windows) | ```irm https://ollama.com/install.ps1 | iex``` or ```winget.exe install --id Ollama.Ollama``` |
-| MacOS | [`ollama.com`](https://ollama.com/download/mac) | ```curl -fsSL https://ollama.com/install.sh | sh``` |
-| GNU/Linux | - | ```curl -fsSL https://ollama.com/install.sh | sh``` |
+- **Windows:**
+
+> download setup file from [`ollama.com`](https://ollama.com/download/windows)
+
+> or run this script on PowerShell or CMD:
+
+```ps1
+irm "https://ollama.com/install.ps1" | iex
+# or
+winget.exe install --id Ollama.Ollama
+```
+
+- **MacOS:**
+
+> download setup file from [`ollama.com`](https://ollama.com/download/mac)
+
+> or run this script on Terminal:
+
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
+- **GNU/Linux:**
+
+> run this script on Terminal:
+
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+```
 
 2. Pull Model
 
@@ -26,3 +46,7 @@
 
 - open terminal ```ollama serve``` and in another terminal page ```ollama run cmd_er/cody```
 - or open Ollama app and select `cmd_er/cody` from model list.
+
+### ❗Note
+
+> **Cody is not affiliated with, endorsed by, or distributed as an official artifact of the original model provider.**
