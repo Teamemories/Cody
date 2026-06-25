@@ -1,4 +1,4 @@
-# <img src="https://github.com/Teamemories/Cody/blob/main/logo.svg" style="width: 150px; height: 150px; border-radius: 50px;" /> Cody
+# <img src="https://github.com/Teamemories/Cody/blob/main/logo.svg" style="width: 150px; height: 150px; border-radius: 50px;" /> Cody [![CodeQL](https://github.com/Teamemories/Cody/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Teamemories/Cody/actions/workflows/github-code-scanning/codeql)
 
 > `Edition 260604`
 
