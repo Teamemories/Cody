@@ -8,7 +8,3 @@ This system is designated strictly for educational and research applications at 
 It should be classified as a scientific experiment rather than a commercial product or an official release.
 
 > [**`How to install`**](https://github.com/Teamemories/Cody/releases/tag/cody)
-
-### ❗Note
-
-> **Cody is not affiliated with, endorsed by, or distributed as an official artifact of the original model provider.**
