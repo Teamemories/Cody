@@ -7,4 +7,4 @@ Cody is a lightweight model wrapper implemented as an experimental configuration
 This system is designated strictly for educational and research applications at the student level.
 It should be classified as a scientific experiment rather than a commercial product or an official release.
 
-> [**`How to install`**](https://github.com/Teamemories/Cody/releases/tag/cody)
+> [**`How to install`**](https://github.com/Teamemories/Cody/releases/tag/ed260604)
